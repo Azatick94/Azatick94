@@ -6,7 +6,7 @@ This is Link to my CV: https://azatick94.github.io/personal_page/
 
 ![](https://github.com/Azatick94/github-stats/blob/master/generated/languages.svg)
 
-[![Azat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azatick94)](https://github.com/Azatick94/github-readme-stats)
+[![Azat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azatick94)](https://github.com/Azatick94/github-stats)
 
   
 
