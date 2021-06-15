@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Link to CV: https://azatick94.github.io/personal_page/
+
 <!--
 **Azatick94/Azatick94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
