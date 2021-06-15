@@ -2,7 +2,7 @@
 
 This is Link to my CV: https://azatick94.github.io/personal_page/
 
-[![Azat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azatick94&hide=stars,prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Azat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azatick94&hide=stars,prs,issues,contribs?count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
