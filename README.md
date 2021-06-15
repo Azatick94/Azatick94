@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 This is Link to my CV: https://azatick94.github.io/personal_page/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azatick94)](https://github.com/anuraghazra/github-readme-stats)
+
   
 
 <!--
