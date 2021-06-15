@@ -2,7 +2,7 @@
 
 This is Link to my CV: https://azatick94.github.io/personal_page/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azatick94&exclude_repo=github-stats,Oil-Gas_Resources,Courses,spring-framework,Tutorial_Projects?hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Azatick94&exclude_repo=github-stats?hide=Jupyter Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
