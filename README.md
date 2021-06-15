@@ -1,13 +1,6 @@
 ### Hi there 👋
 
 This is Link to my CV: https://azatick94.github.io/personal_page/
-
-<a href="https://github.com/Azatick94/github-stats">
-
-![](https://github.com/Azatick94/github-stats/blob/master/generated/languages.svg)
-
-[![Azat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Azatick94)](https://github.com/Azatick94/github-stats)
-
   
 
 <!--
