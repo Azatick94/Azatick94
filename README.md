@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Link to CV: https://azatick94.github.io/personal_page/
+This is Link to my CV: https://azatick94.github.io/personal_page/
 
 <a href="https://github.com/Azatick94/github-stats">
 
